@@ -4,7 +4,7 @@
   "location": "Belgium & Netherlands",
   "start": "2026-08-15",
   "end": "2026-08-30",
-  "last_updated": "2026-09-17T08:04:44.446376+00:00",
+  "last_updated": "2026-09-17T13:52:00.776962+00:00",
   "source": "FIH TMS",
   "phases": [
     "Pool A",
@@ -650,7 +650,7 @@
       "enrichment": "official",
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.939286+00:00",
+        "generated_at": "2026-09-17T13:52:00.753126+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -891,19 +891,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -925,6 +916,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -936,60 +936,53 @@
               "onAt": "46:00"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "27:46"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "23:47"
+              "onAt": "27:46"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "19:02"
+              "onAt": "23:47"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "46:14"
+              "onAt": "19:02"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "26:47"
+              "onAt": "46:14"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "48:14"
+              "onAt": "26:47"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "43:58"
+              "onAt": "48:14"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "15:32"
+              "onAt": "43:58"
             }
           ],
           "team": "PAK",
@@ -4603,7 +4596,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-24T12:23:07.491406+00:00",
+        "generated_at": "2026-09-17T13:52:00.757110+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -4672,19 +4665,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -4706,6 +4690,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -4717,60 +4710,53 @@
               "onAt": "38:50"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "43:31"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "51:58"
+              "onAt": "43:31"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "08:02"
+              "onAt": "51:58"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "10:24"
+              "onAt": "08:02"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "22:50"
+              "onAt": "10:24"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "42:40"
+              "onAt": "22:50"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "48:48"
+              "onAt": "42:40"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "48:05"
+              "onAt": "48:48"
             }
           ],
           "team": "PAK",
@@ -8734,7 +8720,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-24T14:30:44.633963+00:00",
+        "generated_at": "2026-09-17T13:52:00.760929+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -8975,19 +8961,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -9009,6 +8986,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -9020,60 +9006,53 @@
               "onAt": "19:39"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "41:18"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "15:18"
+              "onAt": "41:18"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "24:39"
+              "onAt": "15:18"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "28:15"
+              "onAt": "24:39"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "37:51"
+              "onAt": "28:15"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "49:23"
+              "onAt": "37:51"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "08:54"
+              "onAt": "49:23"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "31:26"
+              "onAt": "08:54"
             }
           ],
           "team": "PAK",
@@ -14940,7 +14919,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.952047+00:00",
+        "generated_at": "2026-09-17T13:52:00.766607+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -15009,19 +14988,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -15043,6 +15013,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -15054,60 +15033,53 @@
               "onAt": "28:52"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "51:49"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "15:13"
+              "onAt": "51:49"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "19:21"
+              "onAt": "15:13"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "22:48"
+              "onAt": "19:21"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "35:17"
+              "onAt": "22:48"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "12:06"
+              "onAt": "35:17"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "50:31"
+              "onAt": "12:06"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "08:44"
+              "onAt": "50:31"
             }
           ],
           "team": "PAK",
@@ -19020,7 +18992,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.955631+00:00",
+        "generated_at": "2026-09-17T13:52:00.770411+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -19261,19 +19233,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -19295,6 +19258,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -19306,60 +19278,53 @@
               "onAt": "46:01"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "12:06"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "45:18"
+              "onAt": "12:06"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "18:33"
+              "onAt": "45:18"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "25:11"
+              "onAt": "18:33"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "47:08"
+              "onAt": "25:11"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "14:06"
+              "onAt": "47:08"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "09:44"
+              "onAt": "14:06"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "33:31"
+              "onAt": "09:44"
             }
           ],
           "team": "PAK",
@@ -21409,7 +21374,7 @@
       "events": [],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-24T12:23:07.506618+00:00",
+        "generated_at": "2026-09-17T13:52:00.772799+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -21478,19 +21443,10 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_13",
-              "name": "Muhammad Hammadudin",
-              "number": 17,
-              "line": "Midfielder",
-              "position": null,
-              "captain": false,
-              "goalkeeper": false
-            },
-            {
               "playerId": "PAK_05",
               "name": "Muhammad Abdullah",
               "number": 2,
-              "line": "Forward",
+              "line": "Midfielder",
               "position": null,
               "captain": false,
               "goalkeeper": false
@@ -21512,6 +21468,15 @@
               "position": null,
               "captain": false,
               "goalkeeper": false
+            },
+            {
+              "playerId": "PAK_06",
+              "name": "Moin Shakeel",
+              "number": 7,
+              "line": "Forward",
+              "position": null,
+              "captain": false,
+              "goalkeeper": false
             }
           ],
           "substitutes": [
@@ -21523,60 +21488,53 @@
               "onAt": "24:33"
             },
             {
-              "playerId": "PAK_06",
-              "name": "Moin Shakeel",
-              "number": 7,
-              "position": null,
-              "onAt": "51:46"
-            },
-            {
               "playerId": "PAK_11",
               "name": "Ghazanfar Ali",
               "number": 15,
               "position": null,
-              "onAt": "45:13"
+              "onAt": "51:46"
             },
             {
               "playerId": "PAK_08",
               "name": "Zikriya Hayat",
               "number": 10,
               "position": null,
-              "onAt": "16:55"
+              "onAt": "45:13"
             },
             {
               "playerId": "PAK_10",
               "name": "Ahmad Nadeem",
               "number": 14,
               "position": null,
-              "onAt": "09:22"
+              "onAt": "16:55"
             },
             {
               "playerId": "PAK_20",
               "name": "Muhammad Ammad",
               "number": 35,
               "position": null,
-              "onAt": "33:27"
+              "onAt": "09:22"
             },
             {
               "playerId": "PAK_19",
               "name": "Abdul Manan",
               "number": 32,
               "position": null,
-              "onAt": "15:06"
+              "onAt": "33:27"
             },
             {
               "playerId": "PAK_16",
               "name": "Umar Mustafa",
               "number": 24,
               "position": null,
-              "onAt": "45:54"
+              "onAt": "15:06"
             },
             {
               "playerId": "PAK_09",
               "name": "Adeel Latif",
               "number": 13,
               "position": null,
-              "onAt": "08:43"
+              "onAt": "45:54"
             }
           ],
           "team": "PAK",
