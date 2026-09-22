@@ -104,7 +104,7 @@
       "name": "Japan",
       "flag": "🇯🇵",
       "pool": "A",
-      "fih_rank": 17,
+      "fih_rank": 16,
       "host": false,
       "nickname": "Samurai Japan",
       "color": "#BC002D",
@@ -121,7 +121,7 @@
       "contender_tier": "dark_horse",
       "win_prob": 1.4,
       "intro": "Samurai Japan qualified as Asian contenders and arrive with the lowest ranking in Pool A and none of the associated resignation. Japan's hockey is quick, structured and unusually disciplined at the back — a side that concedes late rarely and turns games into low-scoring tests of patience. Koji Kayukawa leads a squad that will look at a pool containing the Netherlands and Argentina and see two chances to be remembered.",
-      "fih_points": 2300.5,
+      "fih_points": 2321.41,
       "form": {
         "played": 6,
         "wins": 1,
@@ -232,7 +232,7 @@
       "name": "Malaysia",
       "flag": "🇲🇾",
       "pool": "B",
-      "fih_rank": 15,
+      "fih_rank": 14,
       "host": false,
       "nickname": "Tigers",
       "color": "#CC0001",
@@ -249,7 +249,7 @@
       "contender_tier": "challenger",
       "win_prob": 2.6,
       "intro": "The Tigers arrive as Asia's most improved side and the team most likely to make the pool stage uncomfortable for somebody. Malaysia's hockey is played at pace, with Tengku Ahmad Tajuddin driving from midfield and Adrian Albert leading a squad that has closed the gap on the European sides in recent seasons. In Pool B with Belgium, Germany and France, they will need to take at least one scalp — and they have taken them before.",
-      "fih_points": 2346.77,
+      "fih_points": 2392.33,
       "form": {
         "played": 5,
         "wins": 0,
@@ -518,5 +518,5 @@
   ],
   "intros_note": "Team introductions written before the tournament (pre-push-back, 15 Aug 2026). Not updated with results.",
   "rankings_source": "https://www.fih.hockey/outdoor-hockey-rankings",
-  "rankings_updated_at": "2026-08-31T01:04:19.356577+00:00"
+  "rankings_updated_at": "2026-09-22T13:44:09.943660+00:00"
 }
