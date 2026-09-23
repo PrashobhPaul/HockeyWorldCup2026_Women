@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 32,
   "accuracy_pct": 68,
-  "brier": 0.4507,
-  "log_loss": 0.7695,
+  "brier": 0.4505,
+  "log_loss": 0.7693,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -183,7 +183,7 @@
     {
       "id": "S2G2",
       "pick": "HOME",
-      "conf_pct": 68,
+      "conf_pct": 64,
       "correct": true
     },
     {
@@ -225,7 +225,7 @@
     {
       "id": "S2G3",
       "pick": "DRAW",
-      "conf_pct": 39,
+      "conf_pct": 38,
       "correct": false
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-09-22T13:44:28.295577+00:00"
+  "updated_at": "2026-09-23T08:03:18.014149+00:00"
 }
