@@ -121,7 +121,7 @@
       "contender_tier": "dark_horse",
       "win_prob": 1.4,
       "intro": "Samurai Japan qualified as Asian contenders and arrive with the lowest ranking in Pool A and none of the associated resignation. Japan's hockey is quick, structured and unusually disciplined at the back — a side that concedes late rarely and turns games into low-scoring tests of patience. Koji Kayukawa leads a squad that will look at a pool containing the Netherlands and Argentina and see two chances to be remembered.",
-      "fih_points": 2350.88,
+      "fih_points": 2336.26,
       "form": {
         "played": 6,
         "wins": 1,
@@ -249,7 +249,7 @@
       "contender_tier": "challenger",
       "win_prob": 2.6,
       "intro": "The Tigers arrive as Asia's most improved side and the team most likely to make the pool stage uncomfortable for somebody. Malaysia's hockey is played at pace, with Tengku Ahmad Tajuddin driving from midfield and Adrian Albert leading a squad that has closed the gap on the European sides in recent seasons. In Pool B with Belgium, Germany and France, they will need to take at least one scalp — and they have taken them before.",
-      "fih_points": 2392.33,
+      "fih_points": 2467.32,
       "form": {
         "played": 5,
         "wins": 0,
@@ -360,7 +360,7 @@
       "name": "South Africa",
       "flag": "🇿🇦",
       "pool": "C",
-      "fih_rank": 13,
+      "fih_rank": 12,
       "host": false,
       "nickname": "Amabhungane",
       "color": "#007A4D",
@@ -409,7 +409,7 @@
       "contender_tier": "dark_horse",
       "win_prob": 7.4,
       "intro": "India's two world titles came in 1975 and before, but the last decade has been a genuine renaissance: Olympic medals, a settled core, and the best drag-flicker in the world in captain Harmanpreet Singh. Playing with the noise of the largest travelling support in the sport, the Men in Blue combine sharp transition hockey with a penalty corner that turns pressure into goals. Pool D looks navigable, and India's ambition here is not merely the crossover round.",
-      "fih_points": 3072.69,
+      "fih_points": 3093.0,
       "form": {
         "played": 5,
         "wins": 2,
@@ -456,7 +456,7 @@
       "name": "Pakistan",
       "flag": "🇵🇰",
       "pool": "D",
-      "fih_rank": 12,
+      "fih_rank": 13,
       "host": false,
       "nickname": "Green Shirts",
       "color": "#01411C",
@@ -473,7 +473,7 @@
       "contender_tier": "dark_horse",
       "win_prob": 3.1,
       "intro": "Four world titles — level with Germany for the most in the tournament's history — and none since 1994. Pakistan's return to this stage is the sport's most emotive storyline: a nation that invented much of hockey's attacking vocabulary, back among the sixteen. Sufyan Khan leads a young squad in which Muhammad Umar Bhutta's corner threat carries much of the scoring burden. Pool D is unforgiving, and Pakistan have never needed a reason to raise their game.",
-      "fih_points": 2561.59,
+      "fih_points": 2527.71,
       "form": {
         "played": 5,
         "wins": 1,
@@ -518,5 +518,5 @@
   ],
   "intros_note": "Team introductions written before the tournament (pre-push-back, 15 Aug 2026). Not updated with results.",
   "rankings_source": "https://www.fih.hockey/outdoor-hockey-rankings",
-  "rankings_updated_at": "2026-09-23T08:03:04.620097+00:00"
+  "rankings_updated_at": "2026-09-26T11:54:19.982141+00:00"
 }
