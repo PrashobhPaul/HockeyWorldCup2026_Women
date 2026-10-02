@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 33,
   "accuracy_pct": 70,
-  "brier": 0.4436,
-  "log_loss": 0.7577,
+  "brier": 0.4427,
+  "log_loss": 0.7568,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -21,7 +21,7 @@
     {
       "id": "D2",
       "pick": "HOME",
-      "conf_pct": 93,
+      "conf_pct": 94,
       "correct": true
     },
     {
@@ -57,19 +57,19 @@
     {
       "id": "D4",
       "pick": "HOME",
-      "conf_pct": 56,
+      "conf_pct": 53,
       "correct": false
     },
     {
       "id": "B4",
       "pick": "HOME",
-      "conf_pct": 69,
+      "conf_pct": 64,
       "correct": false
     },
     {
       "id": "D3",
       "pick": "HOME",
-      "conf_pct": 68,
+      "conf_pct": 66,
       "correct": true
     },
     {
@@ -111,7 +111,7 @@
     {
       "id": "D6",
       "pick": "HOME",
-      "conf_pct": 90,
+      "conf_pct": 91,
       "correct": true
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "S2H2",
       "pick": "HOME",
-      "conf_pct": 52,
+      "conf_pct": 48,
       "correct": true
     },
     {
@@ -183,13 +183,13 @@
     {
       "id": "S2G2",
       "pick": "HOME",
-      "conf_pct": 71,
+      "conf_pct": 67,
       "correct": true
     },
     {
       "id": "S2E1",
       "pick": "HOME",
-      "conf_pct": 91,
+      "conf_pct": 90,
       "correct": true
     },
     {
@@ -201,7 +201,7 @@
     {
       "id": "S2H3",
       "pick": "DRAW",
-      "conf_pct": 38,
+      "conf_pct": 39,
       "correct": true
     },
     {
@@ -237,7 +237,7 @@
     {
       "id": "S2E3",
       "pick": "HOME",
-      "conf_pct": 86,
+      "conf_pct": 85,
       "correct": true
     },
     {
@@ -249,7 +249,7 @@
     {
       "id": "POS13",
       "pick": "AWAY",
-      "conf_pct": 93,
+      "conf_pct": 92,
       "correct": true
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-09-29T13:31:58.236099+00:00"
+  "updated_at": "2026-10-02T01:10:35.624632+00:00"
 }
