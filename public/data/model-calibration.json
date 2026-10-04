@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 33,
   "accuracy_pct": 70,
-  "brier": 0.4427,
-  "log_loss": 0.7568,
+  "brier": 0.4445,
+  "log_loss": 0.7596,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -21,7 +21,7 @@
     {
       "id": "D2",
       "pick": "HOME",
-      "conf_pct": 94,
+      "conf_pct": 93,
       "correct": true
     },
     {
@@ -57,19 +57,19 @@
     {
       "id": "D4",
       "pick": "HOME",
-      "conf_pct": 53,
+      "conf_pct": 57,
       "correct": false
     },
     {
       "id": "B4",
       "pick": "HOME",
-      "conf_pct": 64,
+      "conf_pct": 67,
       "correct": false
     },
     {
       "id": "D3",
       "pick": "HOME",
-      "conf_pct": 66,
+      "conf_pct": 63,
       "correct": true
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "A4",
       "pick": "AWAY",
-      "conf_pct": 91,
+      "conf_pct": 90,
       "correct": true
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "S2H2",
       "pick": "HOME",
-      "conf_pct": 48,
+      "conf_pct": 51,
       "correct": true
     },
     {
@@ -183,7 +183,7 @@
     {
       "id": "S2G2",
       "pick": "HOME",
-      "conf_pct": 67,
+      "conf_pct": 65,
       "correct": true
     },
     {
@@ -231,13 +231,13 @@
     {
       "id": "S2G4",
       "pick": "HOME",
-      "conf_pct": 90,
+      "conf_pct": 89,
       "correct": true
     },
     {
       "id": "S2E3",
       "pick": "HOME",
-      "conf_pct": 85,
+      "conf_pct": 83,
       "correct": true
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-10-02T01:10:35.624632+00:00"
+  "updated_at": "2026-10-04T06:29:58.665540+00:00"
 }
