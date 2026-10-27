@@ -4,7 +4,7 @@
   "location": "Belgium & Netherlands",
   "start": "2026-08-15",
   "end": "2026-08-30",
-  "last_updated": "2026-10-27T06:57:47.015094+00:00",
+  "last_updated": "2026-10-27T12:54:41.501102+00:00",
   "source": "FIH TMS",
   "phases": [
     "Pool A",
@@ -2114,7 +2114,7 @@
       "enrichment": "official",
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-29T01:19:32.994281+00:00",
+        "generated_at": "2026-10-27T12:54:41.489889+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -2407,16 +2407,16 @@
               "onAt": "13:38"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "23:09"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "50:59"
             },
@@ -6593,7 +6593,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.944843+00:00",
+        "generated_at": "2026-10-27T12:54:41.492091+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -6721,16 +6721,16 @@
               "onAt": "39:48"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "10:36"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "32:40"
             },
@@ -10269,7 +10269,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-29T02:33:06.622684+00:00",
+        "generated_at": "2026-10-27T12:54:41.493761+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -10397,16 +10397,16 @@
               "onAt": "48:05"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "15:07"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "49:35"
             },
@@ -14919,7 +14919,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-09-17T13:52:00.766607+00:00",
+        "generated_at": "2026-10-27T12:54:41.495882+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -15212,16 +15212,16 @@
               "onAt": "33:51"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "28:24"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "44:34"
             },
@@ -18456,7 +18456,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.955175+00:00",
+        "generated_at": "2026-10-27T12:54:41.497534+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -18584,16 +18584,16 @@
               "onAt": "45:11"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "11:40"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "16:20"
             },
@@ -20540,7 +20540,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.957004+00:00",
+        "generated_at": "2026-10-27T12:54:41.498495+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -20668,16 +20668,16 @@
               "onAt": "41:54"
             },
             {
-              "playerId": "JPN_04",
-              "name": "Yamato Kawahara",
-              "number": 4,
+              "playerId": "JPN_17",
+              "name": "Yusuke Kawamura",
+              "number": 23,
               "position": null,
               "onAt": "28:53"
             },
             {
-              "playerId": "JPN_17",
-              "name": "Yusuke Kawamura",
-              "number": 23,
+              "playerId": "JPN_04",
+              "name": "Yamato Kawahara",
+              "number": 4,
               "position": null,
               "onAt": "34:04"
             },
