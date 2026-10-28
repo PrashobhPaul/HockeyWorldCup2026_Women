@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 33,
   "accuracy_pct": 70,
-  "brier": 0.4445,
-  "log_loss": 0.7596,
+  "brier": 0.4442,
+  "log_loss": 0.7592,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -51,7 +51,7 @@
     {
       "id": "A1",
       "pick": "HOME",
-      "conf_pct": 95,
+      "conf_pct": 94,
       "correct": true
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": "B4",
       "pick": "HOME",
-      "conf_pct": 67,
+      "conf_pct": 66,
       "correct": false
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "A4",
       "pick": "AWAY",
-      "conf_pct": 90,
+      "conf_pct": 89,
       "correct": true
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "S2H2",
       "pick": "HOME",
-      "conf_pct": 51,
+      "conf_pct": 49,
       "correct": true
     },
     {
@@ -183,7 +183,7 @@
     {
       "id": "S2G2",
       "pick": "HOME",
-      "conf_pct": 65,
+      "conf_pct": 63,
       "correct": true
     },
     {
@@ -225,7 +225,7 @@
     {
       "id": "S2G3",
       "pick": "DRAW",
-      "conf_pct": 39,
+      "conf_pct": 38,
       "correct": false
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-10-04T06:29:58.665540+00:00"
+  "updated_at": "2026-10-28T01:54:06.517568+00:00"
 }
