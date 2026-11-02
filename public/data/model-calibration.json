@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 33,
   "accuracy_pct": 70,
-  "brier": 0.444,
-  "log_loss": 0.759,
+  "brier": 0.4444,
+  "log_loss": 0.7596,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -63,13 +63,13 @@
     {
       "id": "B4",
       "pick": "HOME",
-      "conf_pct": 64,
+      "conf_pct": 65,
       "correct": false
     },
     {
       "id": "D3",
       "pick": "HOME",
-      "conf_pct": 62,
+      "conf_pct": 61,
       "correct": true
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-10-31T01:10:33.980017+00:00"
+  "updated_at": "2026-11-02T01:57:30.082114+00:00"
 }
