@@ -232,7 +232,7 @@
       "name": "Malaysia",
       "flag": "🇲🇾",
       "pool": "B",
-      "fih_rank": 14,
+      "fih_rank": 13,
       "host": false,
       "nickname": "Tigers",
       "color": "#CC0001",
@@ -249,7 +249,7 @@
       "contender_tier": "challenger",
       "win_prob": 2.6,
       "intro": "The Tigers arrive as Asia's most improved side and the team most likely to make the pool stage uncomfortable for somebody. Malaysia's hockey is played at pace, with Tengku Ahmad Tajuddin driving from midfield and Adrian Albert leading a squad that has closed the gap on the European sides in recent seasons. In Pool B with Belgium, Germany and France, they will need to take at least one scalp — and they have taken them before.",
-      "fih_points": 2526.03,
+      "fih_points": 2538.23,
       "form": {
         "played": 5,
         "wins": 0,
@@ -360,7 +360,7 @@
       "name": "South Africa",
       "flag": "🇿🇦",
       "pool": "C",
-      "fih_rank": 13,
+      "fih_rank": 14,
       "host": false,
       "nickname": "Amabhungane",
       "color": "#007A4D",
@@ -473,7 +473,7 @@
       "contender_tier": "dark_horse",
       "win_prob": 3.1,
       "intro": "Four world titles — level with Germany for the most in the tournament's history — and none since 1994. Pakistan's return to this stage is the sport's most emotive storyline: a nation that invented much of hockey's attacking vocabulary, back among the sixteen. Sufyan Khan leads a young squad in which Muhammad Umar Bhutta's corner threat carries much of the scoring burden. Pool D is unforgiving, and Pakistan have never needed a reason to raise their game.",
-      "fih_points": 2555.6,
+      "fih_points": 2568.49,
       "form": {
         "played": 5,
         "wins": 1,
@@ -518,5 +518,5 @@
   ],
   "intros_note": "Team introductions written before the tournament (pre-push-back, 15 Aug 2026). Not updated with results.",
   "rankings_source": "https://www.fih.hockey/outdoor-hockey-rankings",
-  "rankings_updated_at": "2026-11-06T03:07:00.681073+00:00"
+  "rankings_updated_at": "2026-11-21T03:37:09.474313+00:00"
 }
