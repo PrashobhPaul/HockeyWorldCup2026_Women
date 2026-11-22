@@ -57,13 +57,13 @@
     {
       "id": "D4",
       "pick": "HOME",
-      "conf_pct": 58,
+      "conf_pct": 59,
       "correct": false
     },
     {
       "id": "B4",
       "pick": "HOME",
-      "conf_pct": 66,
+      "conf_pct": 64,
       "correct": false
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "S2H2",
       "pick": "HOME",
-      "conf_pct": 50,
+      "conf_pct": 48,
       "correct": true
     },
     {
@@ -231,7 +231,7 @@
     {
       "id": "S2G4",
       "pick": "HOME",
-      "conf_pct": 89,
+      "conf_pct": 88,
       "correct": true
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-11-21T03:37:57.429914+00:00"
+  "updated_at": "2026-11-22T03:49:50.545268+00:00"
 }
