@@ -4,7 +4,7 @@
   "location": "Belgium & Netherlands",
   "start": "2026-08-15",
   "end": "2026-08-30",
-  "last_updated": "2026-11-23T09:57:08.776029+00:00",
+  "last_updated": "2026-11-23T21:51:01.536464+00:00",
   "source": "FIH TMS",
   "phases": [
     "Pool A",
@@ -650,7 +650,7 @@
       "enrichment": "official",
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.057984+00:00",
+        "generated_at": "2026-11-23T21:51:01.524170+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -918,9 +918,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -936,9 +936,9 @@
               "onAt": "46:00"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "27:46"
             },
@@ -4596,7 +4596,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.061819+00:00",
+        "generated_at": "2026-11-23T21:51:01.526254+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -4692,9 +4692,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -4710,9 +4710,9 @@
               "onAt": "38:50"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "43:31"
             },
@@ -8720,7 +8720,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.065509+00:00",
+        "generated_at": "2026-11-23T21:51:01.528221+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -8988,9 +8988,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -9006,9 +9006,9 @@
               "onAt": "19:39"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "41:18"
             },
@@ -14919,7 +14919,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.070985+00:00",
+        "generated_at": "2026-11-23T21:51:01.531121+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -15015,9 +15015,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -15033,9 +15033,9 @@
               "onAt": "28:52"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "51:49"
             },
@@ -18992,7 +18992,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.074652+00:00",
+        "generated_at": "2026-11-23T21:51:01.533064+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -19260,9 +19260,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -19278,9 +19278,9 @@
               "onAt": "46:01"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "12:06"
             },
@@ -21374,7 +21374,7 @@
       "events": [],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-11-21T11:53:26.076946+00:00",
+        "generated_at": "2026-11-23T21:51:01.534300+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -21470,9 +21470,9 @@
               "goalkeeper": false
             },
             {
-              "playerId": "PAK_21",
-              "name": "Arshad Liaqat",
-              "number": 11,
+              "playerId": "PAK_11",
+              "name": "Ghazanfar Ali",
+              "number": 15,
               "line": "Forward",
               "position": null,
               "captain": false,
@@ -21488,9 +21488,9 @@
               "onAt": "24:33"
             },
             {
-              "playerId": "PAK_11",
-              "name": "Ghazanfar Ali",
-              "number": 15,
+              "playerId": "PAK_21",
+              "name": "Arshad Liaqat",
+              "number": 11,
               "position": null,
               "onAt": "51:46"
             },
