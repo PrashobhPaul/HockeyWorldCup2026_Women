@@ -2,8 +2,8 @@
   "matches": 47,
   "correct": 34,
   "accuracy_pct": 72,
-  "brier": 0.4454,
-  "log_loss": 0.7617,
+  "brier": 0.4453,
+  "log_loss": 0.7616,
   "method": "as-of-then replay: every completed match re-scored with only the form and rankings available before its own push-back",
   "replay": [
     {
@@ -15,7 +15,7 @@
     {
       "id": "B1",
       "pick": "HOME",
-      "conf_pct": 95,
+      "conf_pct": 94,
       "correct": true
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "S2H2",
       "pick": "HOME",
-      "conf_pct": 48,
+      "conf_pct": 47,
       "correct": true
     },
     {
@@ -289,5 +289,5 @@
       "correct": false
     }
   ],
-  "updated_at": "2026-11-22T03:49:50.545268+00:00"
+  "updated_at": "2026-11-24T05:40:17.169089+00:00"
 }
