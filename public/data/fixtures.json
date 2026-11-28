@@ -4,7 +4,7 @@
   "location": "Belgium & Netherlands",
   "start": "2026-08-15",
   "end": "2026-08-30",
-  "last_updated": "2026-11-28T05:17:40.912482+00:00",
+  "last_updated": "2026-11-28T14:40:39.038971+00:00",
   "source": "FIH TMS",
   "phases": [
     "Pool A",
@@ -3105,15 +3105,15 @@
       "enrichment": "official",
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.941656+00:00",
+        "generated_at": "2026-11-28T14:40:39.018088+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -3212,9 +3212,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "29:04"
             },
@@ -3254,16 +3254,16 @@
               "onAt": "14:13"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "28:38"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "08:51"
             },
@@ -7077,15 +7077,15 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.945302+00:00",
+        "generated_at": "2026-11-28T14:40:39.021815+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -7184,9 +7184,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "20:32"
             },
@@ -7226,16 +7226,16 @@
               "onAt": "35:19"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "25:58"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "36:40"
             },
@@ -11346,15 +11346,15 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.948921+00:00",
+        "generated_at": "2026-11-28T14:40:39.025550+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -11453,9 +11453,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "20:10"
             },
@@ -11495,16 +11495,16 @@
               "onAt": "09:33"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "35:43"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "27:37"
             },
@@ -13398,15 +13398,15 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.950694+00:00",
+        "generated_at": "2026-11-28T14:40:39.027397+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -13505,9 +13505,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "20:35"
             },
@@ -13547,16 +13547,16 @@
               "onAt": "30:16"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "16:34"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "31:50"
             },
@@ -17483,7 +17483,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-29T01:19:33.005138+00:00",
+        "generated_at": "2026-11-28T14:40:39.031123+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -17647,9 +17647,9 @@
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -17748,9 +17748,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "18:07"
             },
@@ -17790,16 +17790,16 @@
               "onAt": "45:47"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "26:23"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "49:44"
             },
@@ -22331,7 +22331,7 @@
       ],
       "lineups": {
         "source": "estimated",
-        "generated_at": "2026-08-28T17:54:04.958788+00:00",
+        "generated_at": "2026-11-28T14:40:39.035745+00:00",
         "home": {
           "formation": "4-3-3",
           "fromTeamList": true,
@@ -22509,9 +22509,9 @@
           "fromTeamList": true,
           "startingXI": [
             {
-              "playerId": "AUS_18",
-              "name": "Ashleigh Thomas",
-              "number": 28,
+              "playerId": "AUS_09",
+              "name": "Jed Snowden",
+              "number": 12,
               "line": "Goalkeeper",
               "position": "Goalkeeper",
               "captain": false,
@@ -22610,9 +22610,9 @@
           ],
           "substitutes": [
             {
-              "playerId": "AUS_09",
-              "name": "Jed Snowden",
-              "number": 12,
+              "playerId": "AUS_18",
+              "name": "Ashleigh Thomas",
+              "number": 28,
               "position": "Goalkeeper",
               "onAt": "38:18"
             },
@@ -22652,16 +22652,16 @@
               "onAt": "43:31"
             },
             {
-              "playerId": "AUS_22",
-              "name": "Liam Henderson",
-              "number": 9,
+              "playerId": "AUS_15",
+              "name": "Cambell Geddes",
+              "number": 24,
               "position": null,
               "onAt": "26:39"
             },
             {
-              "playerId": "AUS_15",
-              "name": "Cambell Geddes",
-              "number": 24,
+              "playerId": "AUS_22",
+              "name": "Liam Henderson",
+              "number": 9,
               "position": null,
               "onAt": "46:16"
             },
